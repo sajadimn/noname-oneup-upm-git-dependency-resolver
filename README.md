@@ -101,4 +101,4 @@ https://github.com/user/repo.git?path=/packageA https://github.com/user/repo.git
 
 ## See Also
 
-* GitHub Page : https://github.com/sajadimn/noname-oneup-upm-git-dependency-resolver
+* GitHub Page : https://github.com/sajadimn
