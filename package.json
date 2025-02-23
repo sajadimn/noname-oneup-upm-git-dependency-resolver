@@ -1,0 +1,34 @@
+{
+  "name": "noname-oneup-upm-git-dependency-resolver",
+  "displayName": "Git Dependencies Resolver",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "license": "Copyright (c) Noname.OneUp All rights reserved.",
+  "type": "Tools",
+  "category": "Utilities",
+  "description": "That package is a utility to resolve Git Dependencies inside custom packages installed in the project.",
+  "dependencies": {},
+  "gitDependencies": {},
+  "samples": [],
+  "hideInEditor": true,
+  "keywords": [
+    "Noname",
+    "OneUp",
+    "GitDependenciesResolver",
+    "UPM",
+    "Utilities",
+    "Tools"
+  ],
+  "author": {
+    "name": "OneUp",
+    "email": "imani.sajad92@gmail.com",
+    "url": "https://github.com/sajadimn"
+  },
+  "repository": {
+    "url": "https://github.com/sajadimn/noname-oneup-upm-git-dependency-resolver.git",
+    "type": "git"
+  },
+  "publishConfig": {
+    "registry": "https://github.com/sajadimn/noname-oneup-upm-git-dependency-resolver"
+  }
+}
